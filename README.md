@@ -1,6 +1,5 @@
-## Data Structures Programming Assignment 6 (due Friday 04/29)
-### due Friday 04/29 @5pm
-#### accepted as on time until Sunday 05/01 @11:59pm
+## Data Structures Programming Assignment 6 (due Monday 11/04)
+### due Monday 11/04 @ 11:59 PM
 
 For this final coding assignment, you will be writing three graph search algorithms and use them to solve some basic puzzles. This assignment contains a large number of files, so make sure you understand their relationship before starting. The files can be roughly organized into three categories. You will only need to modify the last category of files, but understanding how the files in the first two categories work will help make your implementations easier.
 
